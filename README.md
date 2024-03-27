@@ -1,6 +1,6 @@
 # Salario_vendedores
 ## Calculadora de Salário para Vendedores
-Esta é uma simples calculadora de salário para vendedores em PHP e HTML. A calculadora permite que você insira o nome do vendedor, sua meta de venda semanal e sua meta de venda mensal. Com base nessas entradas, a calculadora determina o salário final do vendedor, considerando bônus por atingir metas semanais e mensais.  
+Apresento uma calculadora básica de remuneração destinada a vendedores, desenvolvida em PHP e HTML. Esta ferramenta permite ao usuário inserir o nome do vendedor, bem como suas metas de vendas semanais e mensais. Utilizando essas informações, a calculadora determina o salário final do vendedor, levando em consideração os bônus por alcance das metas estabelecidas tanto semanalmente quanto mensalmente.  
  
 ## Tecnologias utilizadas
 HTML  
